@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚙 Car-Hub
 
-## Getting Started
+[Demo Page](https://car-hub-red.vercel.app/)
 
-First, run the development server:
+***Car Hub is lite version of NextJS project that is a part of NextJS paid course done by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) channel.***
+</br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+***Car hub is a simple app that allows you to browse offers of various cars, just like a car rental application.***
+</br>
+  
+***I decided to do this project because I wanted to consolidate my knowledge of NextJS and try HeadlessUI. HeadlessUI components work well with TailwindCSS so it was much easier to style them than when using MUI. Informations about cars and their specs come from [Cars by API-Ninjas on RapidApi](https://rapidapi.com/apininjas/api/cars-by-api-ninjas) and images are from [ImaginStudioAPI](https://www.imagin.studio/).***
+</br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+***And of course the design is fully responsive.***
+ 
+## ⚒️ Built with:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next 14
+- React
+- RapidAPI
+- ImaginStudioAPI
+- TailwindCSS
+- HeadlessUI
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 📷 Screenshots:
+<p align="center">
+<img src="https://i.imgur.com/23BzUbS.png" height="100%" width="100%" alt="CarHub"/>
+<br />
+<img src="https://i.imgur.com/AnoLDkB.png" height="100%" width="100%" alt="CarHub"/>
+<br />
+<img src="https://i.imgur.com/Q8MbQnz.png" height="100%" width="100%" alt="CarHub"/>
+<br />
+<img src="https://i.imgur.com/2QJOApH.png" height="100%" width="100%" alt="CarHub"/>
+<br />
+<img src="https://i.imgur.com/g7rRjol.pngg" height="100%" width="100%" alt="CarHub"/>
+<br />
+<img src="https://i.imgur.com/6jX6iOi.png" height="50%" width="50%" alt="CarHub"/>
+<br />
+<img src="https://i.imgur.com/SBFaXsL.png" height="50%" width="50%" alt="CarHub"/>
+<br />
+<img src="https://i.imgur.com/WfHXUTb.png" height="50%" width="50%" alt="CarHub"/>
+<br />
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
